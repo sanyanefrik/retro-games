@@ -1,0 +1,202 @@
+@import url('https://fonts.googleapis.com/css2?family=DotGothic16&display=swap');
+html {
+	scroll-behavior: smooth;
+}
+p{
+	font-family: 'DotGothic16', sans-serif;
+	padding: 0px;
+	margin: 0px;
+}
+*{
+	margin: 0;
+	padding: 0;
+}
+.knopka{
+	width: 100px;
+	height: 100px;
+	position: fixed;
+	bottom: 25px;
+	right: 25px;
+	background-image: url("13858b1a86c302510c18c7fbe5e575b2-removebg-preview 1.png");
+}
+.wrapper{
+	width: 100%;
+}
+.container{
+	padding: 0px;
+	margin-top: 0px;
+	width: 1440px;
+	min-height: 500px;
+	margin: auto;
+	background: white;
+}
+.header{
+	width: 100%;
+	height: 239px;
+	background-image: url("image 20.png");
+}
+.content{
+	margin-top: 0px;
+	width: 100%;
+	min-height: 500px;
+	background: white;
+
+}
+.nachalo1{
+	display: flex;
+	width: 100%;
+	height: 100px;
+	background: #cccccc;
+}
+.fotoikonka{
+	width: 112px;
+	height: 100px;
+	margin-left: 80px;
+	background-image: url("image 2 (3).png");
+}
+.pokemon{
+	margin-top: 32px;
+	margin-left: 30px;
+}
+.inf1{
+	display: flex;
+}
+.fotki1{
+	margin-top: 10px;
+	margin-left: 80px;
+	width: 490px;
+	height: 330px;
+	background-image: url("Group 1 (1).png");
+}
+.infproigry1{
+	width: 770px;
+	text-align: justify;
+	font-size: 21px;
+	margin-top: 10px;
+	margin-left: 20px;
+}
+
+
+
+
+.nachalo2{
+	margin-top: 20px;
+	display: flex;
+	width: 100%;
+	height: 100px;
+	background: #cccccc;
+}
+.fotoikonka2{
+	width: 100px;
+	height: 100px;
+	margin-left: 80px;
+	background-image: url("13858b1a86c302510c18c7fbe5e575b2-removebg-preview 1.png");
+}
+.mario{
+	margin-top: 32px;
+	margin-left: 42px;
+}
+.inf2{
+	display: flex;
+}
+.fotki2{
+	margin-top: 10px;
+	margin-left: 20px;
+	width: 490px;
+	height: 330px;
+	background-image: url("Group 2.png");
+}
+.infproigry2{
+	width: 770px;
+	text-align: justify;
+	font-size: 22px;
+	margin-top: 10px;
+	margin-left: 80px;
+}
+
+
+
+
+.nachalo3{
+	margin-top: 20px;
+	display: flex;
+	width: 100%;
+	height: 100px;
+	background: #cccccc;
+}
+.fotoikonka3{
+	width: 112px;
+	height: 100px;
+	margin-left: 80px;
+	background-image: url("image-removebg-preview 2.png");
+}
+.zelda{
+	margin-top: 32px;
+	margin-left: 30px;
+}
+.inf3{
+	display: flex;
+}
+.fotki3{
+	margin-top: 10px;
+	margin-left: 80px;
+	width: 490px;
+	height: 330px;
+	background-image: url("Group 3.png");
+}
+.infproigry3{
+	width: 770px;
+	text-align: justify;
+	font-size: 22px;
+	margin-top: 10px;
+	margin-left: 20px;
+}
+
+
+
+
+
+
+
+
+.nachalo4{
+	margin-top: 20px;
+	display: flex;
+	width: 100%;
+	height: 100px;
+	background: #cccccc;
+}
+.fotoikonka4{
+	width: 190px;
+	height: 100px;
+	margin-left: 80px;
+	background-image: url("images-removebg-preview 1.png");
+}
+.cherepahi{
+	margin-top: 32px;
+	margin-left: 30px;
+}
+.inf4{
+	display: flex;
+}
+.fotki4{
+	margin-top: 10px;
+	margin-left: 20px;
+	width: 490px;
+	height: 330px;
+	background-image: url("Group 4.png");
+}
+.infproigry4{
+	width: 770px;
+	text-align: justify;
+	font-size: 20px;
+	margin-top: 10px;
+	margin-left: 80px;
+}
+
+.footer{
+	margin-top: 20px;
+	width: 100%;
+	height: 150px;
+	background-image: url("sonikheader 1.png");
+}
